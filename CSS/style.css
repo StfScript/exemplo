@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto:wght@400;700&display=swap');
+
+body{ margin:0px;
+    font-family: 'Roboto', 'Courier','sans-serif';
+}
+
+.carousel-item {
+    height: 600px; /* Ajuste este valor conforme necessário */
+    width: 1903px; /* Ajuste este valor conforme necessário */
+padding: 10px;  
+}
+  
+  .carousel-item img {
+    height:600px;
+    width: 1903px;
+    object-fit: 
+  }
+
+
+.carousel-caption h5{ 
+
+    font-size: 60px;
+    color: rgb(238, 197, 64);
+    text-shadow: 3px 3px 3px black;
+     
+ 
+}
+small{color: white;}
+.card h3, p {text-align: center;}
+
+.card{ 
+    padding: 20px;
+}
+.card-img-top{ 
+
+    height: 400px;
+}
+
+
+
+
+}
+
+
+
+header h1{
+    font-weight: bolder;
+    color: white;
+    font-size: 60px;
+    margin: 0px;
+    padding: 100px;    
+font-family: 'Roboto', 'Courier','sans-serif';
+
+
+}
+header {background-color: rgb(49, 190, 255);}
+h2{font-family: 'Roboto';}
+
+
+main, section, form{margin: 10px;}
+footer{
+font-family: 'Roboto', sans-serif; ;
+}
+.negrito{ 
+font-weight: bold;
+font-size: 20px
+}
+
+
+/* Tr é a linha da tabela. Tr:nth-child(even) aqui dizemos que queremos das linhas o filho par. Então todas as vezes que a linha for par, algo ocorre. */
+
+
+
+legend{margin: 0px}
+
+/*   font-weight: bolder;
+    color: white;
+    font-size: 60px;
+    margin: 0px;
+    padding: 150px;   */
